@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.bayamp.homework.test.BinarySearchTest"/>
+      <class name="com.bayamp.homework.test.FactorialTest"/>
+      <class name="com.bayamp.homework.test.PrimeNumberTest"/>
+      <class name="com.bayamp.homework.test.FibonacciSeriesTest"/>"
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
